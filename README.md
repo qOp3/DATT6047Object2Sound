@@ -1,2 +1,2 @@
-# DATT6047Object2Sound
+# DATT4074/6074 Object2Sound
 Transforming Objects into Unpredictable Instruments
