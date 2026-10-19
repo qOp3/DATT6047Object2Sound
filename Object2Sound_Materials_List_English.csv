@@ -1,0 +1,12 @@
+﻿Item,Category,Quantity,Estimated Min Cost (CAD),Estimated Max Cost (CAD),Priority,Purpose
+Piezoelectric contact sensors (27–35 mm),Sensor,3–5,5,15,Required,Capture vibrations from everyday objects
+High-impedance preamplifier / buffer with input protection,Audio front end,1,10,30,Required,Condition piezo signals and protect the audio input
+USB audio interface with audio input,Audio interface,1,40,100,Required (if not already available),Send vibration audio to Max/MSP
+Audio cables and adapters,Cables,As needed,10,20,Required,Connect the preamplifier and audio interface
+"Breadboard, jumper wires, resistors, and basic components",Electronics,1 kit,10,20,Required,Build and test the prototype
+Drumsticks or other striking tools,Interaction,1–2,5,15,Recommended,Strike or tap objects
+Removable adhesive and sensor mounting materials,Mounting,1 kit,5,10,Recommended,Attach sensors to different surfaces
+ESP32-S3 development board,Wireless extension,1,12,25,Optional,Wireless sensing and Wi-Fi communication
+I2S audio ADC / codec module,Wireless extension,1,10,30,Optional,Higher-quality audio acquisition on ESP32
+Daisy Seed,Standalone DSP,1,35,55,Optional,Standalone real-time audio processing
+Battery and power management module,Portable power,1 kit,15,30,Optional,Portable or wireless operation
