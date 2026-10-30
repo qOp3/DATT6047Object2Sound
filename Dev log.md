@@ -10,3 +10,8 @@
 - Insights: We learned how tempo changes and rhythmic gating create different musical effects.
 - Next steps: Test audio playback and refine the button controls in Max.
 - Roadblocks: Playback testing and the physical hardware are still unfinished.
+
+## Week 3 — Piezo Circuit and 3D Drumstick Design
+- **Progress:** The piezo components arrived. We started designing a preamplifier circuit and a 3D-printable drumstick based on the piezo sensor's dimensions.
+- **Insights:** We learned that piezo sensors require proper signal amplification and protection to capture vibration signals reliably.
+- **Next steps:** Assemble and test the amplifier circuit, finalize the 3D drumstick model, and print the prototype.
