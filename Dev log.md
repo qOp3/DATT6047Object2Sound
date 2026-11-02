@@ -31,10 +31,17 @@
 - **Next steps:** Continue testing the amplifier and protection circuits, revise the container to accommodate the wiring, and print an improved prototype.
 - **Roadblocks:** The first container design did not leave enough room for the wires, preventing the lid from closing properly.
 
-
 ## Week 7 — Piezo Container Redesign and Drumstick Development
 
-- **Progress:** We designed the second version of the piezo container lid and started developing the 3D-printable drumstick. We also continued assembling the amplifier and protection circuits.
-- **Insights:** We learned how to improve the mechanical design by considering wiring space, component placement, and assembly requirements.
-- **Next steps:** Print and test the updated container and drumstick, complete the circuit assembly, and test the piezo sensor with the amplifier.
+- **Progress:** We designed the second version of the piezo container lid and started developing the 3D-printable drumstick. We also continued assembling the amplifier and protection circuits. Additionally, we tested the piezo sensor by connecting it directly to an amplifier and speaker, and the results were promising.
+- **Insights:** We learned how to improve the mechanical design by considering wiring space, component placement, and assembly requirements. The audio test also demonstrated that the piezo sensor can effectively capture vibrations and produce audible sounds.
+- **Next steps:** Print and test the updated container and drumstick, complete the circuit assembly, and test the piezo sensor with the preamplifier.
 - **Roadblocks:** The circuit assembly is still in progress, and the updated 3D-printed components have not yet been fully tested.
+
+### Piezo Audio Test
+
+We connected the piezo sensor directly to a guitar amplifier to test its ability to capture vibrations and produce sound. The results were promising.
+
+![Piezo sensor connected to a guitar amplifier](imgs/piezo_with_speaker.jpg)
+
+We connected the piezo sensor directly to a guitar amplifier to test its ability to capture vibrations and produce sound.
