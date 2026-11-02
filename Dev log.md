@@ -44,4 +44,3 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 
 ![Piezo sensor connected to a guitar amplifier](imgs/piezo_with_speaker.jpg)
 
-We connected the piezo sensor directly to a guitar amplifier to test its ability to capture vibrations and produce sound.
