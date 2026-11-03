@@ -13,12 +13,12 @@
 - **Next steps:** Finalize the project concept, divide responsibilities among group members, and research the hardware and software needed for implementation.
 - **Roadblocks:** The project is still in the early planning stage, and we need to determine the technical requirements and implementation details.
 
-## Week 4 — Research on AI-Based Sound Generation
+## Week 4 — Research on AI-Based Sound Generation and Hardware Planning
 
-- **Progress:** We started researching different approaches to sound generation and initially decided to explore the RAVE plugin in Max/MSP for AI-based audio synthesis and timbre transformation.
-- **Insights:** We learned that RAVE (Realtime Audio Variational Autoencoder) can generate and transform audio in real time using trained neural networks, offering new possibilities for creating unique percussion sounds.
-- **Next steps:** Set up the RAVE plugin in Max/MSP, explore available pretrained models, and test how piezo sensor signals could be used to control sound generation.
-- **Roadblocks:** We are still in the research stage and have not yet tested RAVE with the physical piezo sensor.
+- **Progress:** We started researching different approaches to sound generation and initially decided to explore the RAVE plugin in Max/MSP for AI-based audio synthesis and timbre transformation. We also conducted preliminary research on the required hardware components and created an initial equipment list for the project.
+- **Insights:** We learned that RAVE (Realtime Audio Variational Autoencoder) can generate and transform audio in real time using trained neural networks, offering new possibilities for creating unique percussion sounds. We also gained a better understanding of the hardware requirements for capturing and processing piezo sensor signals.
+- **Next steps:** Set up the RAVE plugin in Max/MSP, explore available pretrained models, finalize the equipment list, and begin acquiring the necessary components.
+- **Roadblocks:** We are still in the research and planning stage. The required hardware has not yet been fully acquired, and RAVE has not been tested with the physical piezo sensor.
 
 ## Week 5 — Piezo Circuit and 3D Drumstick Design
 
