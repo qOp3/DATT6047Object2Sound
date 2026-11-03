@@ -8,11 +8,10 @@
 - Next steps: Develop the circuit schematics and expand the Max patch.
 - Roadblocks: The drumstick and sensor circuits have not been assembled.
 
-## Week 3
-- Progress: We added audio processing, a playlist, tap-tempo control, and rhythmic gating to the Max draft.
-- Insights: We learned how tempo changes and rhythmic gating create different musical effects.
-- Next steps: Test audio playback and refine the button controls in Max.
-- Roadblocks: Playback testing and the physical hardware are still unfinished.
+## Week 3 — Group Formation and Project Planning
+- **Progress:** We formed our project group and started discussing how to develop and implement our project. We explored the overall concept and possible technical approaches.
+- **Next steps:** Finalize the project concept, divide responsibilities among group members, and research the hardware and software needed for implementation.
+- **Roadblocks:** The project is still in the early planning stage, and we need to determine the technical requirements and implementation details.
 
 ## Week 4 — Research on AI-Based Sound Generation
 
