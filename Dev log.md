@@ -46,19 +46,7 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 
 ![Piezo sensor connected to a guitar amplifier](imgs/piezo_with_speaker.jpg)
 ## Week 8 — Max Development and Audio Troubleshooting
-
-**Progress**
-
-We expanded the Max patch structure to include microphone input, recorded music, connected audio effects, rhythm controls, and recording. We changed the interface to a basic Max style and reorganised the objects and patch cords to make the signal flow easier to follow.
-
-**Insights**
-
-We learned how audio signals and control messages serve different purposes. Clearer connections also make it easier to trace where a problem might occur.
-
-**Next Steps**
-
-We will investigate the no-sound issue by checking the loaded audio file, DSP, master volume, and audio device settings. We will then test the microphone input and compare the effects before connecting the sensors.
-
-**Current Roadblocks**
-
-The patch is not producing sound in our current setup, and the cause has not been confirmed. The physical drumstick and sensor circuits have not been assembled yet.
+- **Progress:** We developed the Max prototype with playlist and microphone inputs, connected audio effects, rhythm controls, and recording. We also changed the interface to a basic Max style and organised the objects and patch cords.
+- **Insights:** We learned how audio signals and control messages work together. Clearer connections make the processing chain easier to understand and troubleshoot.
+- **Next steps:** Check the loaded audio file, DSP, volume, and output device settings to locate the no-sound problem. Then test microphone processing and prepare for sensor integration.
+- **Roadblocks:** The Max patch is not producing sound in our current setup, and the cause has not been confirmed. The connection between the physical sensors and Max still needs testing.
