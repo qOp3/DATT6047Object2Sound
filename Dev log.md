@@ -50,3 +50,9 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 - **Insights:** We learned how audio signals and control messages work together. Clearer connections make the processing chain easier to understand and troubleshoot.
 - **Next steps:** Check the loaded audio file, DSP, volume, and output device settings to locate the no-sound problem. Then test microphone processing and prepare for sensor integration.
 - **Roadblocks:** The Max patch is not producing sound in our current setup, and the cause has not been confirmed. The connection between the physical sensors and Max still needs testing.
+## Week 9 — Simplifying the Max Patch and Comparing Audio
+
+- **Progress:** We arranged the input, tone controls, recording, and output from left to right on one screen. We kept three tone knobs and added a way to record the same four seconds before and after processing.
+- **Insights:** The new layout makes it easier to follow where the sound goes. Recording both versions of the same strike helps us hear what the tone controls change.
+- **Next steps:** Test playback with the demo audio, then connect the piezo sensor and compare soft and hard strikes.
+- **Roadblocks:** We still need to confirm that the updated patch plays sound on our setup and receives a clear signal from the piezo sensor.
