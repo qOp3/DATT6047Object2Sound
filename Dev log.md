@@ -53,6 +53,8 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 ## Week 9 — Simplifying the Max Patch and Comparing Audio
 
 - **Progress:** We arranged the input, tone controls, recording, and output from left to right on one screen. We kept three tone knobs and added a way to record the same four seconds before and after processing.
+- We also started experimenting with attaching the piezo sensor to different objects and capturing vibrations by striking the objects instead of hitting the sensor directly.
 - **Insights:** The new layout makes it easier to follow where the sound goes. Recording both versions of the same strike helps us hear what the tone controls change.
+- We found that indirectly capturing vibrations through objects can reduce the high voltage spikes caused by directly striking the piezo sensor.
 - **Next steps:** Test playback with the demo audio, then connect the piezo sensor and compare soft and hard strikes.
 - **Roadblocks:** We still need to confirm that the updated patch plays sound on our setup and receives a clear signal from the piezo sensor.
