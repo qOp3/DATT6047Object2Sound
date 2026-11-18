@@ -58,3 +58,5 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 - We found that indirectly capturing vibrations through objects can reduce the high voltage spikes caused by directly striking the piezo sensor.
 - **Next steps:** Test playback with the demo audio, then connect the piezo sensor and compare soft and hard strikes.
 - **Roadblocks:** We still need to confirm that the updated patch plays sound on our setup and receives a clear signal from the piezo sensor.
+## Week 9 — Simplifying the Max Patch and Comparing Audio
+
