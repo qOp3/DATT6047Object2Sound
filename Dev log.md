@@ -58,5 +58,10 @@ We connected the piezo sensor directly to a guitar amplifier to test its ability
 - We found that indirectly capturing vibrations through objects can reduce the high voltage spikes caused by directly striking the piezo sensor.
 - **Next steps:** Test playback with the demo audio, then connect the piezo sensor and compare soft and hard strikes.
 - **Roadblocks:** We still need to confirm that the updated patch plays sound on our setup and receives a clear signal from the piezo sensor.
-## Week 9 — Simplifying the Max Patch and Comparing Audio
+
+## Week 10 — Optimizing the Max Patch and Integrating the Accelerometer
+- **Progress:** We added an accelerometer and implemented corresponding motion-control functionality in the Max patch. We also redesigned the 3D-printed components, using a soda can as a resonance chamber and a custom 3D-printed connector to attach the can to the electronic components.
+- **Insights:** The accelerometer introduces an additional way to control sound through movement. Using a soda can as a resonance chamber also allows us to explore different acoustic properties.
+- **Next steps:** Complete the assembly of the drumstick and test the integrated system.
+- **Roadblocks:** The accelerometer connection is unstable, and the sensor is frequently not detected by the Daisy Seed. We have not yet found a reliable solution. Currently, restarting the board several times is our only workaround.
 
